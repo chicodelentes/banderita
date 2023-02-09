@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: aliceblue;
+}
+
+.header, .nav, .footer {
+    background-color: #ff042f;
+    margin: 10px 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 40px;
+    text-align: center;
+}
+ .nav {
+     height: 35px;
+ }
+
+ .aside {
+    background-color: #ff042f;
+    height: 700px;
+    width: 350px;
+    margin-left: 190px;
+    text-align: center;
+ }
+
+ .section {
+    background-color: #ff042f;
+    height: 700px;
+    width: 60%;
+    margin-left: 570px;
+    position: relative;
+    bottom: 700px;
+}
+
+.footer {
+    position: relative;
+    bottom: 700px;
+}

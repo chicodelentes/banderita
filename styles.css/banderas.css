@@ -1,0 +1,219 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: rgb(240, 208, 208);
+}
+
+h1{
+    background-color: aquamarine;
+    color: rgb(100, 142, 179);
+    width: 30%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 80px;
+}
+
+/* Chile */
+.azul {
+    background-color: rgb(31, 31, 245);
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    right: 300px;
+}
+
+.star{
+    display: block;
+    width: 150px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 65px;
+}
+
+.blanco {
+    background-color: white;
+    width: 600px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    bottom: 300px;
+    left: 150px;
+
+}
+
+.rojo {
+    background-color: rgb(240, 48, 48);
+    width: 900px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -100px;
+    position: relative;
+    bottom: 300px;
+}
+
+/* Japón */
+.white {
+    background-color: white;
+    width: 900px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 200px;
+}
+
+.red {
+    background-color: red;
+    width: 350px;
+    height: 350px;
+    border-radius: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 120px;
+}
+
+/* Italia */
+.color1{
+     background-color: rgb(83, 223, 83);
+     width: 300px;
+     height: 600px;
+     margin-left: auto;
+     margin-right: auto;
+     position: relative;
+     right: 300px;
+
+}
+
+.color2{
+    background-color: white;
+    width: 300px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    bottom: 600px;
+}
+
+.color3{
+    background-color: red;
+    width: 300px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -1200px;
+    margin-bottom: 200px;
+    position: relative;
+    left: 300px;
+}
+
+
+/* Canada */
+.color4{
+    background-color: red;
+    width: 300px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    right: 300px;
+}
+
+.color5{
+   background-color: white;
+   width: 300px;
+   height: 600px;
+   margin-left: auto;
+   margin-right: auto;
+   position: relative;
+   bottom: 600px;
+}
+
+.canada{
+    display: block;
+    width: 270px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 170px;
+}
+
+.color6{
+   background-color: red;
+   width: 300px;
+   height: 600px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: -1200px;
+   margin-bottom: 200px;
+   position: relative;
+   left: 300px;
+}
+
+/* Inglaterra */
+
+.color7{
+    background-color: white;
+    width: 900px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 200px;
+}
+
+.color8{
+    background-color: red;
+    width: 100px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.color9{
+   background-color: red;
+   width: 900px;
+   height: 100px;
+   position: relative;
+   bottom: 300px;
+}
+
+/* Zuisa */
+
+.color10{
+    background-color: red;
+    width: 900px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+}
+
+.color11{
+    background-color: white;
+    width: 100px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 150px;
+}
+
+.color12{
+    background-color: white;
+    width: 300px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    bottom: 50px;
+}
